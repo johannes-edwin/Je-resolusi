@@ -4,6 +4,7 @@ RENCANA KONTEN JE
   * ES6
   * Framework Javascript
     ^ Vue
+    ^ React
 - Strukture Data    Dasar
 - PHP Frameworks
   ^ Laravel
