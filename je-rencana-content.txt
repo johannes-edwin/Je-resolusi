@@ -3,6 +3,7 @@ RENCANA KONTEN JE
 - Javascript
   * ES6
   * Framework Javascript
+- Strukture Data    Dasar
 - PHP Frameworks
 - Interview
 - Vlogs
